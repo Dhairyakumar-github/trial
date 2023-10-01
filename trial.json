@@ -1,10 +1,8 @@
 [
-  
   {
     "Id": "1",
     "SeasonNum": "1",
-    "poster":
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPSZ5A4L-oVpnveJpzghSyFxw53MUJik3IPg&usqp=CAU",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPSZ5A4L-oVpnveJpzghSyFxw53MUJik3IPg&usqp=CAU",
     "SeasonTitle": "Abcd",
     "desc": "A web series with seasons.",
     "totalEp": "20",
@@ -13,27 +11,26 @@
         "episode_number": "1",
         "duration_minutes": "30",
         "epTitle": "ep1",
-        "epurl": "Url",
+        "epurl": "Url"
       },
       {
         "episode_number": "2",
         "duration_minutes": "25",
         "epTitle": "ep2",
-        "epurl": "Url",
+        "epurl": "Url"
       },
       {
         "episode_number": "3",
         "duration_minutes": "28",
         "epTitle": "ep3",
-        "epurl": "Url",
-      },
-    ],
+        "epurl": "Url"
+      }
+    ]
   },
   {
     "Id": "2",
     "SeasonNum": "2",
-    "poster":
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPSZ5A4L-oVpnveJpzghSyFxw53MUJik3IPg&usqp=CAU",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPSZ5A4L-oVpnveJpzghSyFxw53MUJik3IPg&usqp=CAU",
     "SeasonTitle": "vsndhiusdbh",
     "desc": "A web series with seasons.",
     "totalEp": "20",
@@ -42,34 +39,32 @@
         "episode_number": "1",
         "duration_minutes": "30",
         "epTitle": "ep1",
-        "epurl": "Url",
+        "epurl": "Url"
       },
       {
         "episode_number": "2",
         "duration_minutes": "25",
         "epTitle": "ep2",
-        "epurl": "Url",
+        "epurl": "Url"
       },
       {
         "episode_number": "3",
         "duration_minutes": "28",
         "epTitle": "ep3",
-        "epurl": "Url",
+        "epurl": "Url"
       },
       {
         "episode_number": "4",
         "duration_minutes": "28",
         "epTitle": "ep4",
-        "epurl": "Url",
+        "epurl": "Url"
       },
       {
         "episode_number": "5",
         "duration_minutes": "28",
         "epTitle": "ep5",
-        "epurl": "Url",
+        "epurl": "Url"
       }
-    ],
+    ]
   }
- 
-
 ]

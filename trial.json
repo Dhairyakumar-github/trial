@@ -64,6 +64,58 @@
         "duration_minutes": "28",
         "epTitle": "ep5",
         "epurl": "Url"
+      },
+      {
+        "episode_number": "5",
+        "duration_minutes": "28",
+        "epTitle": "ep5",
+        "epurl": "Url"
+      }
+    ]
+  },
+  {
+    "Id": "3",
+    "SeasonNum": "3",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPSZ5A4L-oVpnveJpzghSyFxw53MUJik3IPg&usqp=CAU",
+    "SeasonTitle": "vsndhiusdbh",
+    "desc": "A web series with seasons.",
+    "totalEp": "20",
+    "episodes": [
+      {
+        "episode_number": "1",
+        "duration_minutes": "30",
+        "epTitle": "ep1",
+        "epurl": "Url"
+      },
+      {
+        "episode_number": "2",
+        "duration_minutes": "25",
+        "epTitle": "ep2",
+        "epurl": "Url"
+      },
+      {
+        "episode_number": "3",
+        "duration_minutes": "28",
+        "epTitle": "ep3",
+        "epurl": "Url"
+      },
+      {
+        "episode_number": "4",
+        "duration_minutes": "28",
+        "epTitle": "ep4",
+        "epurl": "Url"
+      },
+      {
+        "episode_number": "5",
+        "duration_minutes": "28",
+        "epTitle": "ep5",
+        "epurl": "Url"
+      },
+      {
+        "episode_number": "5",
+        "duration_minutes": "28",
+        "epTitle": "ep5",
+        "epurl": "Url"
       }
     ]
   }

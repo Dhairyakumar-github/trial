@@ -10,19 +10,95 @@
       {
         "episode_number": "1",
         "duration_minutes": "30",
-        "epTitle": "ep1",
+        "epTitle": "Pokémon - I Choose You!",
         "epurl": "Url"
       },
       {
         "episode_number": "2",
         "duration_minutes": "25",
-        "epTitle": "ep2",
+        "epTitle": "Pokémon Emergency!",
         "epurl": "Url"
       },
       {
         "episode_number": "3",
         "duration_minutes": "28",
-        "epTitle": "ep3",
+        "epTitle": "Ash Catches a Pokémon",
+        "epurl": "Url"
+      },
+      {
+        "episode_number": "4",
+        "duration_minutes": "28",
+        "epTitle": "Challenge of the Samurai",
+        "epurl": "Url"
+      }
+      ,
+      {
+        "episode_number": "5",
+        "duration_minutes": "28",
+        "epTitle": "Showdown in Pewter City",
+        "epurl": "Url"
+      },
+      
+      {
+        "episode_number": "6",
+        "duration_minutes": "28",
+        "epTitle": "Clefairy and the Moon Stone",
+        "epurl": "Url"
+      }
+      ,
+      {
+        "episode_number": "7",
+        "duration_minutes": "28",
+        "epTitle": "The Water Flowers of Cerulean City",
+        "epurl": "Url"
+      }
+      ,
+      {
+        "episode_number": "8",
+        "duration_minutes": "28",
+        "epTitle": "The Path to the Pokémon League",
+        "epurl": "Url"
+      }
+      ,
+      {
+        "episode_number": "9",
+        "duration_minutes": "28",
+        "epTitle": "The School of Hard Knocks",
+        "epurl": "Url"
+      }
+      ,
+      {
+        "episode_number": "10",
+        "duration_minutes": "28",
+        "epTitle": "Bulbasaur and the Hidden Village",
+        "epurl": "Url"
+      }
+      ,
+      {
+        "episode_number": "11",
+        "duration_minutes": "28",
+        "epTitle": "Charmander – The Stray Pokémon",
+        "epurl": "Url"
+      }
+      ,
+      {
+        "episode_number": "12",
+        "duration_minutes": "28",
+        "epTitle": "Here Comes the Squirtle Squad",
+        "epurl": "Url"
+      }
+      ,
+      {
+        "episode_number": "13",
+        "duration_minutes": "28",
+        "epTitle": "Mystery at the Lighthouse",
+        "epurl": "Url"
+      }
+      ,
+      {
+        "episode_number": "14",
+        "duration_minutes": "28",
+        "epTitle": "Electric Shock Showdown",
         "epurl": "Url"
       }
     ]

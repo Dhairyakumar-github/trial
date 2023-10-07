@@ -1,290 +1,301 @@
 [
   {
-    "Id": "1",
-    "SeasonNum": "1",
-    "poster": "https://raretoonsindia.com.co/wp-content/uploads/2023/05/s18-1024x576.jpg",
-    "SeasonTitle": "Abcd",
+    "Id": "2",
+    "SeasonNum": "17",
+    "poster": "https://raretoonsindia.com.co/wp-content/uploads/2023/05/s17-1024x576.jpg",
+    "SeasonTitle": "Season 17",
     "desc": "A web series with seasons.",
-    "totalEp": "20",
+    "totalEp": "48",
     "episodes": [
       {
         "episode_number": "1",
         "duration_minutes": "30",
-        "epTitle": "Pokémon - I Choose You!",
-        "epurl": "https://media.istockphoto.com/id/1402553336/video/calm-turtle.mp4?s=mp4-640x640-is&k=20&c=f8DhFOCbMxwqMHyvCBb9Q-j9rHb7gQNslqxVLji-PD4="
+        "epTitle": "Kalos, Where Dreams and Adventures Begin!",
+        "epurl": "https://multiquality.xyz/embed/oD5jkcdZgTfKBZ3"
       },
       {
         "episode_number": "2",
         "duration_minutes": "25",
-        "epTitle": "Pokémon Emergency!",
-        "epurl": "Url"
+        "epTitle": "Lumiose City Pursuit!",
+        "epurl": "https://multiquality.xyz/embed/vDBrfKR2i93ebgX"
       },
       {
         "episode_number": "3",
         "duration_minutes": "28",
-        "epTitle": "Ash Catches a Pokémon",
-        "epurl": "Url"
+        "epTitle": "A Battle of Aerial Mobility!",
+        "epurl": "https://multiquality.xyz/embed/oQulFrBPyWUCwGZ"
       },
       {
         "episode_number": "4",
         "duration_minutes": "28",
-        "epTitle": "Challenge of the Samurai",
-        "epurl": "Url"
-      }
-      ,
+        "epTitle": "A Shockingly Cheeky Friendship!",
+        "epurl": "https://multiquality.xyz/embed/qlPNIdZICB2FGHh"
+      },
       {
         "episode_number": "5",
         "duration_minutes": "28",
-        "epTitle": "Showdown in Pewter City",
-        "epurl": "Url"
+        "epTitle": "A Blustery Santalune Gym Battle!",
+        "epurl": "https://multiquality.xyz/embed/1t8NmrS84RM9yJl"
       },
-      
       {
         "episode_number": "6",
         "duration_minutes": "28",
-        "epTitle": "Clefairy and the Moon Stone",
-        "epurl": "Url"
-      }
-      ,
+        "epTitle": "Battling on Thin Ice!",
+        "epurl": "https://multiquality.xyz/embed/6HMEX3EP8bz6Aqx"
+      },
       {
         "episode_number": "7",
         "duration_minutes": "28",
-        "epTitle": "The Water Flowers of Cerulean City",
-        "epurl": "Url"
-      }
-      ,
+        "epTitle": "Giving Chase at the Rhyhorn Race!",
+        "epurl": "https://multiquality.xyz/embed/aCGcB0mPOBPsecJ"
+      },
       {
         "episode_number": "8",
         "duration_minutes": "28",
-        "epTitle": "The Path to the Pokémon League",
-        "epurl": "Url"
-      }
-      ,
+        "epTitle": "Grooming Furfrou!",
+        "epurl": "https://multiquality.xyz/embed/ehOuJJKmej1nNAm"
+      },
       {
         "episode_number": "9",
         "duration_minutes": "28",
-        "epTitle": "The School of Hard Knocks",
-        "epurl": "Url"
-      }
-      ,
+        "epTitle": "Clemont's Got a Secret!",
+        "epurl": "https://multiquality.xyz/embed/tvc24ZQtQNjANMN"
+      },
       {
         "episode_number": "10",
         "duration_minutes": "28",
-        "epTitle": "Bulbasaur and the Hidden Village",
-        "epurl": "Url"
-      }
-      ,
+        "epTitle": "Mega-Mega Meowth Madness!",
+        "epurl": "https://multiquality.xyz/embed/rnO9KAK8jYVCYYz"
+      },
       {
         "episode_number": "11",
         "duration_minutes": "28",
-        "epTitle": "Charmander – The Stray Pokémon",
-        "epurl": "Url"
-      }
-      ,
+        "epTitle": "The Bamboozling Forest!",
+        "epurl": "https://multiquality.xyz/embed/QgMxXcHqZwPuZYI"
+      },
       {
         "episode_number": "12",
         "duration_minutes": "28",
-        "epTitle": "Here Comes the Squirtle Squad",
-        "epurl": "Url"
-      }
-      ,
+        "epTitle": "To Catch a Pokémon Smuggler!",
+        "epurl": "https://multiquality.xyz/embed/lWSsCnxTQ868sRB"
+      },
       {
         "episode_number": "13",
         "duration_minutes": "28",
-        "epTitle": "Mystery at the Lighthouse",
-        "epurl": "Url"
-      }
-      ,
+        "epTitle": "Kindergarten Chaos!",
+        "epurl": "https://multiquality.xyz/embed/huZdzu6ODMKA2Jc"
+      },
       {
         "episode_number": "14",
         "duration_minutes": "28",
-        "epTitle": "Electric Shock Showdown",
-        "epurl": "Url"
-      }
-    ]
-  },
-  {
-    "Id": "2",
-    "SeasonNum": "2",
-    "poster": "https://raretoonsindia.com.co/wp-content/uploads/2021/03/Pokemon-Season-17-The-Series-XY-Hindi-Episodes-Download-360p-480p-720p-HD-1080p-FHD.jpg",
-    "SeasonTitle": "vsndhiusdbh",
-    "desc": "A web series with seasons.",
-    "totalEp": "20",
-    "episodes": [
-      {
-        "episode_number": "1",
-        "duration_minutes": "30",
-        "epTitle": "ep1",
-        "epurl": "Url"
+        "epTitle": "Seeking Shelter from the Storm!",
+        "epurl": "https://multiquality.xyz/embed/pPJZRcwsMC8vh7b"
       },
       {
-        "episode_number": "2",
-        "duration_minutes": "25",
-        "epTitle": "ep2",
-        "epurl": "Url"
-      },
-      {
-        "episode_number": "3",
+        "episode_number": "15",
         "duration_minutes": "28",
-        "epTitle": "ep3",
-        "epurl": "Url"
+        "epTitle": "An Appetite for Battle!",
+        "epurl": "https://multiquality.xyz/embed/qKSlpIxrG1YCYb7"
       },
       {
-        "episode_number": "4",
+        "episode_number": "16",
         "duration_minutes": "28",
-        "epTitle": "ep4",
-        "epurl": "Url"
+        "epTitle": "A Jolting Switcheroo!",
+        "epurl": "https://multiquality.xyz/embed/LEn2p1Sd7846cmB"
       },
       {
-        "episode_number": "5",
+        "episode_number": "17",
         "duration_minutes": "28",
-        "epTitle": "ep5",
-        "epurl": "Url"
+        "epTitle": "A Rush of Ninja Wisdom!",
+        "epurl": "https://multiquality.xyz/embed/tvtl2QjTb3n9b9Y"
       },
       {
-        "episode_number": "5",
+        "episode_number": "18",
         "duration_minutes": "28",
-        "epTitle": "ep5",
-        "epurl": "Url"
-      }
-    ]
-  },
-  {
-    "Id": "3",
-    "SeasonNum": "3",
-    "poster": "https://raretoonsindia.com.co/wp-content/uploads/2023/05/s18-1024x576.jpg",
-    "SeasonTitle": "vsndhiusdbh",
-    "desc": "A web series with seasons.",
-    "totalEp": "20",
-    "episodes": [
-      {
-        "episode_number": "1",
-        "duration_minutes": "30",
-        "epTitle": "ep1",
-        "epurl": "Url"
+        "epTitle": "Awakening the Sleeping Giant!",
+        "epurl": "https://multiquality.xyz/embed/FSCtbHD5pjGf5KT"
       },
       {
-        "episode_number": "2",
-        "duration_minutes": "25",
-        "epTitle": "ep2",
-        "epurl": "Url"
-      },
-      {
-        "episode_number": "3",
+        "episode_number": "19",
         "duration_minutes": "28",
-        "epTitle": "ep3",
-        "epurl": "Url"
+        "epTitle": "A Conspiracy to Conquer!",
+        "epurl": "https://multiquality.xyz/embed/EOTySYmvIS8QEO3"
       },
       {
-        "episode_number": "4",
+        "episode_number": "20",
         "duration_minutes": "28",
-        "epTitle": "ep4",
-        "epurl": "Url"
+        "epTitle": "Breaking Titles at the Chateau!",
+        "epurl": "https://multiquality.xyz/embed/3EBvEN2RDHjcPeE"
       },
       {
-        "episode_number": "5",
+        "episode_number": "21",
         "duration_minutes": "28",
-        "epTitle": "ep5",
-        "epurl": "Url"
+        "epTitle": "A PokéVision of Things to Come!",
+        "epurl": "https://multiquality.xyz/embed/TOHCg9njaAI8am1"
       },
       {
-        "episode_number": "5",
+        "episode_number": "22",
         "duration_minutes": "28",
-        "epTitle": "ep5",
-        "epurl": "Url"
-      }
-    ]
-  },
-  {
-    "Id": "4",
-    "SeasonNum": "4",
-    "poster": "https://raretoonsindia.com.co/wp-content/uploads/2021/03/Pokemon-Season-17-The-Series-XY-Hindi-Episodes-Download-360p-480p-720p-HD-1080p-FHD.jpg",
-    "SeasonTitle": "vsndhiusdbh",
-    "desc": "A web series with seasons.",
-    "totalEp": "20",
-    "episodes": [
-      {
-        "episode_number": "1",
-        "duration_minutes": "30",
-        "epTitle": "ep1",
-        "epurl": "Url"
+        "epTitle": "Going for the Gold!",
+        "epurl": "https://multiquality.xyz/embed/JwNze8qOmXlE3OP"
       },
       {
-        "episode_number": "2",
-        "duration_minutes": "25",
-        "epTitle": "ep2",
-        "epurl": "Url"
-      },
-      {
-        "episode_number": "3",
+        "episode_number": "23",
         "duration_minutes": "28",
-        "epTitle": "ep3",
-        "epurl": "Url"
+        "epTitle": "Coming Back into the Cold!",
+        "epurl": "https://multiquality.xyz/embed/n2lU2RVWIgZYWrD"
       },
       {
-        "episode_number": "4",
+        "episode_number": "24",
         "duration_minutes": "28",
-        "epTitle": "ep4",
-        "epurl": "Url"
+        "epTitle": "Climbing the Walls!",
+        "epurl": "https://multiquality.xyz/embed/ZLKLvSi1tr5W1ho"
       },
       {
-        "episode_number": "5",
+        "episode_number": "25",
         "duration_minutes": "28",
-        "epTitle": "ep5",
-        "epurl": "Url"
+        "epTitle": "A Battle by Any Other Name!",
+        "epurl": "https://multiquality.xyz/embed/Tz5Z20uG9UEHzwo"
       },
       {
-        "episode_number": "5",
+        "episode_number": "26",
         "duration_minutes": "28",
-        "epTitle": "ep5",
-        "epurl": "Url"
-      }
-    ]
-  },
-  {
-    "Id": "5",
-    "SeasonNum": "5",
-    "poster": "https://raretoonsindia.com.co/wp-content/uploads/2023/05/s18-1024x576.jpg",
-    "SeasonTitle": "vsndhiusdbh",
-    "desc": "A web series with seasons.",
-    "totalEp": "20",
-    "episodes": [
-      {
-        "episode_number": "1",
-        "duration_minutes": "30",
-        "epTitle": "ep1",
-        "epurl": "Url"
+        "epTitle": "To Find a Fairy Flower!",
+        "epurl": "https://multiquality.xyz/embed/HfumUMUWJlVjLfD"
       },
       {
-        "episode_number": "2",
-        "duration_minutes": "25",
-        "epTitle": "ep2",
-        "epurl": "Url"
-      },
-      {
-        "episode_number": "3",
+        "episode_number": "27",
         "duration_minutes": "28",
-        "epTitle": "ep3",
-        "epurl": "Url"
+        "epTitle": "The Bonds of Evolution!",
+        "epurl": "https://multiquality.xyz/embed/C2tUVZtoClgp90q"
       },
       {
-        "episode_number": "4",
+        "episode_number": "28",
         "duration_minutes": "28",
-        "epTitle": "ep4",
-        "epurl": "Url"
+        "epTitle": "Heroes - Friends and Faux Alike!",
+        "epurl": "https://multiquality.xyz/embed/1NOco6G3BNXg1Yy"
       },
       {
-        "episode_number": "5",
+        "episode_number": "29",
         "duration_minutes": "28",
-        "epTitle": "ep5",
-        "epurl": "Url"
+        "epTitle": "Mega Revelations!",
+        "epurl": "https://multiquality.xyz/embed/TQ1oILxtWq5arR6"
       },
       {
-        "episode_number": "5",
+        "episode_number": "30",
         "duration_minutes": "28",
-        "epTitle": "ep5",
-        "epurl": "Url"
+        "epTitle": "The Cave of Trials!",
+        "epurl": "https://multiquality.xyz/embed/pyLbljx3JZft8io"
+      },
+      {
+        "episode_number": "31",
+        "duration_minutes": "28",
+        "epTitle": "The Aura Storm!",
+        "epurl": "https://multiquality.xyz/embed/eLjnR0rLajgllxi"
+      },
+      {
+        "episode_number": "32",
+        "duration_minutes": "28",
+        "epTitle": "Calling from Beyond the Aura!",
+        "epurl": "https://multiquality.xyz/embed/Y3xR27AzbiNTnvS"
+      },
+      {
+        "episode_number": "33",
+        "duration_minutes": "28",
+        "epTitle": "The Bonds of Mega Evolution!",
+        "epurl": "https://multiquality.xyz/embed/KRfskSs5XUAVTeK"
+      },
+      {
+        "episode_number": "34",
+        "duration_minutes": "28",
+        "epTitle": "The Forest Champion!",
+        "epurl": "https://multiquality.xyz/embed/pE7SaU0FYsphTQZ"
+      },
+      {
+        "episode_number": "35",
+        "duration_minutes": "28",
+        "epTitle": "Battles in the Sky!",
+        "epurl": "https://multiquality.xyz/embed/SmubwPEaUb54pWz"
+      },
+      {
+        "episode_number": "36",
+        "duration_minutes": "28",
+        "epTitle": "The Cave of Mirrors!",
+        "epurl": "https://multiquality.xyz/embed/aHKj92VBykXqlBq"
+      },
+      {
+        "episode_number": "37",
+        "duration_minutes": "28",
+        "epTitle": "Forging Forest Friendships!",
+        "epurl": "https://multiquality.xyz/embed/oBJycM2kRbeFQPq"
+      },
+      {
+        "episode_number": "38",
+        "duration_minutes": "28",
+        "epTitle": "Summer of Discovery!",
+        "epurl": "https://multiquality.xyz/embed/e2vZCECpdepZuZ4"
+      },
+      {
+        "episode_number": "39",
+        "duration_minutes": "28",
+        "epTitle": "Day Three Blockbusters!",
+        "epurl": "https://multiquality.xyz/embed/gmdBnan4t4BZqNW"
+      },
+      {
+        "episode_number": "40",
+        "duration_minutes": "28",
+        "epTitle": "Foggy Pokémon Orienteering!",
+        "epurl": "https://multiquality.xyz/embed/NJWuitTLmXb7uEn"
+      },
+      {
+        "episode_number": "41",
+        "duration_minutes": "28",
+        "epTitle": "Battling into the Hall of Fame!",
+        "epurl": "https://multiquality.xyz/embed/NWUMbZHXBI0xsmQ"
+      },
+      {
+        "episode_number": "42",
+        "duration_minutes": "28",
+        "epTitle": "Origins of Mega Evolution!",
+        "epurl": "https://multiquality.xyz/embed/RCYAM62ta8sCyqH"
+      },
+      {
+        "episode_number": "43",
+        "duration_minutes": "28",
+        "epTitle": "Showdown at the Shalour Gym!",
+        "epurl": "https://multiquality.xyz/embed/bombdUpZOVgklBo"
+      },
+      {
+        "episode_number": "44",
+        "duration_minutes": "28",
+        "epTitle": "Splitting Heirs!",
+        "epurl": "https://multiquality.xyz/embed/WtUI43jnyDoPBov"
+      },
+      {
+        "episode_number": "45",
+        "duration_minutes": "28",
+        "epTitle": "The Clumsy Crier Quiets the Chaos!",
+        "epurl": "https://multiquality.xyz/embed/R0PC2p3qinKV4pm"
+      },
+      {
+        "episode_number": "46",
+        "duration_minutes": "28",
+        "epTitle": "Dreaming a Performer's Dream!",
+        "epurl": "https://multiquality.xyz/embed/yXeWLfIVdshaKZi"
+      },
+      {
+        "episode_number": "47",
+        "duration_minutes": "28",
+        "epTitle": "A Campus Reunion!",
+        "epurl": "https://multiquality.xyz/embed/5jPVYCJQQuR655h"
+      },
+      {
+        "episode_number": "48",
+        "duration_minutes": "28",
+        "epTitle": "Bonnie for the Defense!",
+        "epurl": "https://multiquality.xyz/embed/JPpRe1ZCWcmRhLS"
       }
     ]
   }
+  
 ]

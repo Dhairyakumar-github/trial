@@ -1,4 +1,506 @@
-[
+[{
+  "Id": "1",
+  "SeasonNum": "1",
+  "poster": "https://your-poster-url-here.com",
+  "SeasonTitle": "Season 1 - Indigo League",
+  "desc": "The first season of Pokémon.",
+  "totalEp": "82",
+  "episodes": [
+    {
+      "episode_number": "1",
+      "duration_minutes": "24",
+      "epTitle": "Pokémon, I Choose You!",
+      "epurl": "https://multiquality.xyz/embed/JryIBFUQUh4N5DG"
+    },
+    {
+      "episode_number": "2",
+      "duration_minutes": "24",
+      "epTitle": "Pokémon Emergency",
+      "epurl": "https://multiquality.xyz/embed/9HRugL4Eihm2Fs4"
+    },
+    {
+      "episode_number": "3",
+      "duration_minutes": "24",
+      "epTitle": "Ash Catches a Pokémon",
+      "epurl": "https://multiquality.xyz/embed/Xdk5CDLsWL065S1"
+    },
+    {
+      "episode_number": "4",
+      "duration_minutes": "24",
+      "epTitle": "Challenge of the Samurai",
+      "epurl": "https://multiquality.xyz/embed/KIAN89YqxCLepWg"
+    },
+    {
+      "episode_number": "5",
+      "duration_minutes": "24",
+      "epTitle": "Showdown in Pewter City",
+      "epurl": "https://multiquality.xyz/embed/JTQj8qwJ8NAj5Tr"
+    },
+    {
+      "episode_number": "6",
+      "duration_minutes": "24",
+      "epTitle": "Clefairy and the Moon Stone",
+      "epurl": "https://multiquality.xyz/embed/BHmob8ddiw8h06T"
+    },
+    {
+      "episode_number": "7",
+      "duration_minutes": "24",
+      "epTitle": "The Water Flowers of Cerulean City",
+      "epurl": "https://multiquality.xyz/embed/IdUKVovweHXt7g1"
+    },
+    {
+      "episode_number": "8",
+      "duration_minutes": "24",
+      "epTitle": "The Path to the Pokémon League",
+      "epurl": "https://multiquality.xyz/embed/iIjpeSEO7OoQ5HX"
+    },
+    {
+      "episode_number": "9",
+      "duration_minutes": "24",
+      "epTitle": "The School of Hard Knocks",
+      "epurl": "https://multiquality.xyz/embed/U5t0CaRFP76zWLp"
+    },
+    {
+      "episode_number": "10",
+      "duration_minutes": "24",
+      "epTitle": "Bulbasaur and the Hidden Village",
+      "epurl": "https://multiquality.xyz/embed/LKtcfhXvwxcOq95"
+    },
+    {
+      "episode_number": "11",
+      "duration_minutes": "24",
+      "epTitle": "Charmander – The Stray Pokémon",
+      "epurl": "https://multiquality.xyz/embed/WyjTxGSwaBiZt7T"
+    },
+    {
+      "episode_number": "12",
+      "duration_minutes": "24",
+      "epTitle": "Here Comes the Squirtle Squad",
+      "epurl": "https://multiquality.xyz/embed/rEGRdmK3gi3Asdy"
+    },
+    {
+      "episode_number": "13",
+      "duration_minutes": "24",
+      "epTitle": "Mystery at the Lighthouse",
+      "epurl": "https://multiquality.xyz/embed/OIz35sSGNAaXKI7"
+    },
+    {
+      "episode_number": "14",
+      "duration_minutes": "24",
+      "epTitle": "Electric Shock Showdown",
+      "epurl": "https://multiquality.xyz/embed/u6tkUuVzAT8PwsN"
+    },
+    {
+      "episode_number": "15",
+      "duration_minutes": "24",
+      "epTitle": "Battle Aboard the St. Anne",
+      "epurl": "https://multiquality.xyz/embed/Dfhyuh01u5NPAMt"
+    },
+    {
+      "episode_number": "16",
+      "duration_minutes": "24",
+      "epTitle": "Pokémon Shipwreck",
+      "epurl": "https://multiquality.xyz/embed/GiwZXTGpfDjbTXq"
+    },
+    {
+      "episode_number": "17",
+      "duration_minutes": "24",
+      "epTitle": "Island of the Giant Pokémon",
+      "epurl": "https://multiquality.xyz/embed/ShnVedzF9nVP2N1"
+    },
+    {
+      "episode_number": "18",
+      "duration_minutes": "24",
+      "epTitle": "Beauty and the Beach",
+      "epurl": "https://drive.google.com/file/d/1BwtQeKDp4d9wSKsPiE3Lj9Du7qkq5JMS/preview"
+    },
+    {
+      "episode_number": "19",
+      "duration_minutes": "24",
+      "epTitle": "Tentacool & Tentacruel",
+      "epurl": "https://multiquality.xyz/embed/O5Yq2kkwfgeYYlV"
+    },
+    {
+      "episode_number": "20",
+      "duration_minutes": "24",
+      "epTitle": "The Ghost of Maiden's Peak",
+      "epurl": "https://multiquality.xyz/embed/nFPDfcZrReJFzbk"
+    },
+    {
+      "episode_number": "21",
+      "duration_minutes": "24",
+      "epTitle": "Bye Bye Butterfree",
+      "epurl": "https://multiquality.xyz/embed/XxJHLL09uZGRHWc"
+    },
+    {
+      "episode_number": "22",
+      "duration_minutes": "24",
+      "epTitle": "Abra and the Psychic Showdown",
+      "epurl": "https://multiquality.xyz/embed/Yi8wAUkn5TL64YC"
+    },
+    {
+      "episode_number": "23",
+      "duration_minutes": "24",
+      "epTitle": "The Tower of Terror",
+      "epurl": "https://multiquality.xyz/embed/wzNCvRYXXCDQP4m"
+    },
+    {
+      "episode_number": "24",
+      "duration_minutes": "24",
+      "epTitle": "Haunter versus Kadabra",
+      "epurl": "https://multiquality.xyz/embed/a2hdAd6kONGsDCC"
+    },
+    {
+      "episode_number": "25",
+      "duration_minutes": "24",
+      "epTitle": "Primeape Goes Bananas",
+      "epurl": "https://multiquality.xyz/embed/IAXZbbJINfh90a0"
+    },
+    {
+      "episode_number": "26",
+      "duration_minutes": "24",
+      "epTitle": "Pokémon Scent-sation!",
+      "epurl": "https://multiquality.xyz/embed/kPpVuDpjM0zsgCZ"
+    },
+    {
+      "episode_number": "27",
+      "duration_minutes": "24",
+      "epTitle": "Hypno's Naptime",
+      "epurl": "https://multiquality.xyz/embed/C1l6NVXUIiy9n8f"
+    },
+    {
+      "episode_number": "28",
+      "duration_minutes": "24",
+      "epTitle": "Pokémon Fashion Flash",
+      "epurl": "https://multiquality.xyz/embed/OjkxLejclvoPwiw"
+    },
+    {
+      "episode_number": "29",
+      "duration_minutes": "24",
+      "epTitle": "The Punchy Pokémon",
+      "epurl": "https://multiquality.xyz/embed/Qx4ozNBxmgBF4nB"
+    },
+    {
+      "episode_number": "30",
+      "duration_minutes": "24",
+      "epTitle": "Sparks Fly for Magnemite",
+      "epurl": "https://multiquality.xyz/embed/pWp5cXvtAQlTW5u"
+    },
+    {
+      "episode_number": "31",
+      "duration_minutes": "24",
+      "epTitle": "Dig Those Diglett!",
+      "epurl": "https://multiquality.xyz/embed/ErmzAFe1gjDY36u"
+    },
+    {
+      "episode_number": "32",
+      "duration_minutes": "24",
+      "epTitle": "The Ninja Poké-Showdown",
+      "epurl": "https://multiquality.xyz/embed/1V7OXozJupjzR6O"
+    },
+    {
+      "episode_number": "33",
+      "duration_minutes": "24",
+      "epTitle": "The Flame Pokémon-athon!",
+      "epurl": "https://multiquality.xyz/embed/0rvt4zpkyAFyrDT"
+    },
+    {
+      "episode_number": "34",
+      "duration_minutes": "24",
+      "epTitle": "The Kangaskhan Kid",
+      "epurl": "https://multiquality.xyz/embed/zX86SFNw5gET0zm"
+    },
+    {
+      "episode_number": "35",
+      "duration_minutes": "24",
+      "epTitle": "The Legend of Dratini",
+      "epurl": "https://multiquality.xyz/embed/BefdpJ3Z5Rb1xfm"
+    },
+    {
+      "episode_number": "36",
+      "duration_minutes": "24",
+      "epTitle": "The Bridge Bike Gang",
+      "epurl": "https://multiquality.xyz/embed/Mao8pnjsDQuZeLo"
+    },
+    {
+      "episode_number": "37",
+      "duration_minutes": "24",
+      "epTitle": "Ditto's Mysterious Mansion",
+      "epurl": "https://multiquality.xyz/embed/dix25RTTNEN2Wcz"
+    },
+    {
+      "episode_number": "38",
+      "duration_minutes": "24",
+      "epTitle": "Electric Soldier Porygon",
+      "epurl": "https://multiquality.xyz/embed/oHTCvZGLjY0GMrE"
+    },
+    {
+      "episode_number": "39",
+      "duration_minutes": "24",
+      "epTitle": "Pikachu's Goodbye",
+      "epurl": "https://multiquality.xyz/embed/l7nzG38Dd5BqlJh"
+    },
+    {
+      "episode_number": "40",
+      "duration_minutes": "24",
+      "epTitle": "The Battling Eevee Brothers",
+      "epurl": "https://multiquality.xyz/embed/xseG6uQMkDrwxsL"
+    },
+    {
+      "episode_number": "41",
+      "duration_minutes": "24",
+      "epTitle": "Wake Up Snorlax!",
+      "epurl": "https://multiquality.xyz/embed/pAIuHC0OAwHhdCw"
+    },
+    {
+      "episode_number": "42",
+      "duration_minutes": "24",
+      "epTitle": "Showdown at Dark City",
+      "epurl": "https://multiquality.xyz/embed/4OzTfHvKeB2bNif"
+    },
+    {
+      "episode_number": "43",
+      "duration_minutes": "24",
+      "epTitle": "The March of the Exeggutor Squad",
+      "epurl": "https://multiquality.xyz/embed/4nFkKQYxDzY0Sho"
+    },
+    {
+      "episode_number": "44",
+      "duration_minutes": "24",
+      "epTitle": "The Problem with Paras",
+      "epurl": "https://multiquality.xyz/embed/Um4O8OkbAZgiR76"
+    },
+    {
+      "episode_number": "45",
+      "duration_minutes": "24",
+      "epTitle": "The Song of Jigglypuff",
+      "epurl": "https://multiquality.xyz/embed/qCbyGgIOLJZn3YM"
+    },
+    {
+      "episode_number": "46",
+      "duration_minutes": "24",
+      "epTitle": "Attack of the Prehistoric Pokémon",
+      "epurl": "https://multiquality.xyz/embed/n07HLPzgEbS1YNw"
+    },
+    {
+      "episode_number": "47",
+      "duration_minutes": "24",
+      "epTitle": "A Chansey Operation",
+      "epurl": "https://multiquality.xyz/embed/NfHgStTSYqpfN7t"
+    },
+    {
+      "episode_number": "48",
+      "duration_minutes": "24",
+      "epTitle": "Holy Matrimony!",
+      "epurl": "https://multiquality.xyz/embed/e6RiHBJQgB9gfyR"
+    },
+    {
+      "episode_number": "49",
+      "duration_minutes": "24",
+      "epTitle": "So Near, Yet So Farfetch'd",
+      "epurl": "https://multiquality.xyz/embed/0QrdcRAmXZcQOUl"
+    },
+    {
+      "episode_number": "50",
+      "duration_minutes": "24",
+      "epTitle": "Who Gets to Keep Togepi?",
+      "epurl": "https://multiquality.xyz/embed/yDeeaiWp3fdDXHH"
+    },
+    {
+      "episode_number": "51",
+      "duration_minutes": "24",
+      "epTitle": "Bulbasaur's Mysterious Garden",
+      "epurl": "https://multiquality.xyz/embed/3XaJCdnIgJZ8UYL"
+    },
+    {
+      "episode_number": "52",
+      "duration_minutes": "24",
+      "epTitle": "Princess vs. Princess",
+      "epurl": "https://multiquality.xyz/embed/6VF2SyQVDozdeZX"
+    },
+    {
+      "episode_number": "53",
+      "duration_minutes": "24",
+      "epTitle": "The Purr-fect Hero",
+      "epurl": "https://multiquality.xyz/embed/kr4Gb7mFrlgZG0V"
+    },
+    {
+      "episode_number": "54",
+      "duration_minutes": "24",
+      "epTitle": "The Case of the K-9 Caper!",
+      "epurl": "https://multiquality.xyz/embed/iWMcTP4g5TEE6kQ"
+    },
+    {
+      "episode_number": "55",
+      "duration_minutes": "24",
+      "epTitle": "Pokémon Paparazzi",
+      "epurl": "https://multiquality.xyz/embed/9vdHaAnrWTmNu3E"
+    },
+    {
+      "episode_number": "56",
+      "duration_minutes": "24",
+      "epTitle": "The Ultimate Test",
+      "epurl": "https://multiquality.xyz/embed/DCYj0iuOISOFJ88"
+    },
+    {
+      "episode_number": "57",
+      "duration_minutes": "24",
+      "epTitle": "The Breeding Center Secret",
+      "epurl": "https://multiquality.xyz/embed/hmuXb0H6ET7Er60"
+    },
+    {
+      "episode_number": "58",
+      "duration_minutes": "24",
+      "epTitle": "Riddle Me This",
+      "epurl": "https://multiquality.xyz/embed/4Zy0NwSc5J2U7Jl"
+    },
+    {
+      "episode_number": "59",
+      "duration_minutes": "24",
+      "epTitle": "Volcanic Panic",
+      "epurl": "https://multiquality.xyz/embed/EiBA0EkpASBgvpx"
+    },
+    {
+      "episode_number": "60",
+      "duration_minutes": "24",
+      "epTitle": "Beach Blank-Out Blastoise",
+      "epurl": "https://multiquality.xyz/embed/3y7397yXjy4P13y"
+    },
+    {
+      "episode_number": "61",
+      "duration_minutes": "24",
+      "epTitle": "The Misty Mermaid",
+      "epurl": "https://multiquality.xyz/embed/QsvmOFDeHCKMfKF"
+    },
+    {
+      "episode_number": "62",
+      "duration_minutes": "24",
+      "epTitle": "Clefairy Tales",
+      "epurl": "https://multiquality.xyz/embed/uRvuNQewDoUnRmO"
+    },
+    {
+      "episode_number": "63",
+      "duration_minutes": "24",
+      "epTitle": "The Battle of the Badge",
+      "epurl": "https://multiquality.xyz/embed/gx6GkrgiEQ0PRWL"
+    },
+    {
+      "episode_number": "64",
+      "duration_minutes": "24",
+      "epTitle": "It's Mr. Mime Time",
+      "epurl": "https://multiquality.xyz/embed/HJaN2MXQKtNidF1"
+    },
+    {
+      "episode_number": "65",
+      "duration_minutes": "24",
+      "epTitle": "Holiday Hi-Jynx",
+      "epurl": "https://multiquality.xyz/embed/D4EEDtoAoqBpS3m"
+    },
+    {
+      "episode_number": "66",
+      "duration_minutes": "24",
+      "epTitle": "Snow Way Out!",
+      "epurl": "https://multiquality.xyz/embed/NG4a6l1wBtSQRDU"
+    },
+    {
+      "episode_number": "67",
+      "duration_minutes": "24",
+      "epTitle": "Showdown at the Po-ké Corral",
+      "epurl": "https://multiquality.xyz/embed/BvHJ8UvYnkwKL2O"
+    },
+    {
+      "episode_number": "68",
+      "duration_minutes": "24",
+      "epTitle": "The Evolution Solution",
+      "epurl": "https://multiquality.xyz/embed/ZvLSdJYDAjuKkmX"
+    },
+    {
+      "episode_number": "69",
+      "duration_minutes": "24",
+      "epTitle": "The Pi-Kahuna",
+      "epurl": "https://multiquality.xyz/embed/Dc8fmfQASu5qf88"
+    },
+    {
+      "episode_number": "70",
+      "duration_minutes": "24",
+      "epTitle": "Make Room for Gloom",
+      "epurl": "https://multiquality.xyz/embed/4PosghjAiXeZO4I"
+    },
+    {
+      "episode_number": "71",
+      "duration_minutes": "24",
+      "epTitle": "Lights, Camera, Quack-tion!",
+      "epurl": "https://multiquality.xyz/embed/JLM8gS58Urwn5hi"
+    },
+    {
+      "episode_number": "72",
+      "duration_minutes": "24",
+      "epTitle": "Go West Young Meowth",
+      "epurl": "https://multiquality.xyz/embed/AsjuvGEdOAGfUTb"
+    },
+    {
+      "episode_number": "73",
+      "duration_minutes": "24",
+      "epTitle": "To Master the Onixpected!",
+      "epurl": "https://multiquality.xyz/embed/J41oKqlJ1sBpmQu"
+    },
+    {
+      "episode_number": "74",
+      "duration_minutes": "24",
+      "epTitle": "The Ancient Puzzle of Pokémopolis",
+      "epurl": "https://multiquality.xyz/embed/wkBRCb937cWbA4c"
+    },
+    {
+      "episode_number": "75",
+      "duration_minutes": "24",
+      "epTitle": "Bad to the Bone",
+      "epurl": "https://multiquality.xyz/embed/g5JqVi79FTbsTr5"
+    },
+    {
+      "episode_number": "76",
+      "duration_minutes": "24",
+      "epTitle": "All Fired Up!",
+      "epurl": "https://multiquality.xyz/embed/ZXI3WJGmy4m63ac"
+    },
+    {
+      "episode_number": "77",
+      "duration_minutes": "24",
+      "epTitle": "Round One - Begin!",
+      "epurl": "https://multiquality.xyz/embed/kGDpj7LNkR5A5iA"
+    },
+    {
+      "episode_number": "78",
+      "duration_minutes": "24",
+      "epTitle": "Fire and Ice",
+      "epurl": "https://multiquality.xyz/embed/K8z6ZRnINa6EWst"
+    },
+    {
+      "episode_number": "79",
+      "duration_minutes": "24",
+      "epTitle": "The Fourth Round Rumble",
+      "epurl": "https://multiquality.xyz/embed/LuviTFmF159u3Af"
+    },
+    {
+      "episode_number": "80",
+      "duration_minutes": "24",
+      "epTitle": "A Friend In Deed",
+      "epurl": "https://multiquality.xyz/embed/U91T7td2O81GUij"
+    },
+    {
+      "episode_number": "81",
+      "duration_minutes": "24",
+      "epTitle": "Friend and Foe Alike",
+      "epurl": "https://multiquality.xyz/embed/pQcABWFCdpHTFud"
+    },
+    {
+      "episode_number": "82",
+      "duration_minutes": "24",
+      "epTitle": "Friends to the End (Part 7)",
+      "epurl": "https://multiquality.xyz/embed/p1tD98HZl907a8Y"
+    }
+  ]
+}
+,
   {
     "Id": "2",
     "SeasonNum": "17",

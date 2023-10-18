@@ -2,7 +2,7 @@
   "Id": "1",
   "SeasonNum": "1",
   "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjziW9mHTNJP0maO0fvs939SEXcj40W5JrlGorb4ydF78LmhbfG_B01denHI809Rm3sLkKXM-GcRcpw5L2ZhC59zgLW08Sxs54Tpi8VFu9m-GGIZ2DcA98VBMpXCIoB91AJP70ijsq1R8DPFz3Ph6OhDoedh69Zhc-s96Qc_I8G2bHTD8jKtNCPFRf3kg/s739/IMG_20220613_162127_961.jpg",
-  "SeasonTitle": "Season 1 - Indigo League",
+  "SeasonTitle": "Indigo League",
   "desc": "The first season of Pokémon.",
   "totalEp": "82",
   "episodes": [
@@ -728,7 +728,7 @@
   "Id": "3",
   "SeasonNum": "3",
   "poster": "https://your-poster-url-here.com",
-  "SeasonTitle": "Pokémon: The Johto Journeys",
+  "SeasonTitle": "The Johto Journeys",
   "desc": "The third season of Pokémon: The Johto Journeys.",
   "totalEp": "41",
   "episodes": [
@@ -1308,7 +1308,7 @@
   "Id": "5",
   "SeasonNum": "5",
   "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEOjjqlobh415nj2oBiW5JOoU80IN_sFaairqJWwtBvANRMFwJ7Nad-GCMMbk1BddurrcWJ_cWOzWnLxXT2_wEqRK73yFmuHtb2mBpT4EcO9XOhTLnpz2b8XC2XF44k4C0aRsPKyKobW27c2M7ElDkEWbohb-LyE7rfjCtaUtEt5480a1sntjW1OaH/s1920/20230101_205558.jpg",
-  "SeasonTitle": "Season 5 - Master Quest",
+  "SeasonTitle": "Master Quest",
   "desc": "Join Ash Ketchum and his friends as they continue their journey in the Johto region.",
   "totalEp": "65",
   "episodes": [
@@ -1710,7 +1710,7 @@
     "Id": "2",
     "SeasonNum": "17",
     "poster": "https://raretoonsindia.com.co/wp-content/uploads/2021/03/Pokemon-Season-17-The-Series-XY-Hindi-Episodes-Download-360p-480p-720p-HD-1080p-FHD.jpg",
-    "SeasonTitle": "Season 17",
+    "SeasonTitle": "XY",
     "desc": "A web series with seasons.",
     "totalEp": "48",
     "episodes": [
@@ -2008,7 +2008,7 @@
     "Id": "2",
     "SeasonNum": "18",
     "poster": "https://raretoonsindia.pro/wp-content/uploads/2023/05/pokemon-xy-300x300.jpg",
-    "SeasonTitle": "Season 17",
+    "SeasonTitle": "XY Kalos Quest",
     "desc": "A web series with seasons.",
     "totalEp": "45",
     "episodes": [

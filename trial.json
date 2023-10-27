@@ -1707,7 +1707,7 @@
   "Id": "1",
   "SeasonNum": "6",
   "poster": "https://raretoonsindia.in.net/wp-content/uploads/2021/04/Pokemon-Season-6-Advanced-Dual-Audio-Hindi-Eng-576p-WEB-DL-Hungama-TV-Dub-1320x742.png",
-  "SeasonTitle": "Season 6 - Master Quest",
+  "SeasonTitle": "Master Quest",
   "desc": "The sixth season of Pokémon, known as Master Quest.",
   "totalEp": "40",
   "episodes": [
@@ -1956,7 +1956,7 @@
   "Id": "7",
   "SeasonNum": "7",
   "poster": "https://raretoonsindia.in.net/wp-content/uploads/2019/06/Advanced-Challenge-Team.jpg",
-  "SeasonTitle": "Pokémon: Advanced Challenge",
+  "SeasonTitle": "Advanced Challenge",
   "desc": "The seventh season of the Pokémon animated series.",
   "totalEp": "52",
   "episodes": [
@@ -2278,7 +2278,7 @@
   "Id": "8",
   "SeasonNum": "8",
   "poster": "https://raretoonsindia.in.net/wp-content/uploads/2019/04/tumblr_m7pcxyxj4U1rqoideo1_1280.jpg",
-  "SeasonTitle": "Pokémon Season 8 - Advanced Battle",
+  "SeasonTitle": "Advanced Battle",
   "desc": "The eighth season of Pokémon.",
   "totalEp": "52",
   "episodes": [
@@ -2599,7 +2599,7 @@
   "Id": "9",
   "SeasonNum": "9",
   "poster": "https://raretoonsindia.in.net/wp-content/uploads/2019/09/Pokemon-Season-9-Battle-Frontier-Hindi-Episodes-Download-1320x754.png",
-  "SeasonTitle": "Pokémon: Battle Frontier",
+  "SeasonTitle": "Battle Frontier",
   "desc": "The ninth season of the Pokémon anime.",
   "totalEp": "47",
   "episodes": [
@@ -2890,7 +2890,7 @@
   "Id": "10",
   "SeasonNum": "10",
   "poster": "https://raretoonsindia.in.net/wp-content/uploads/2021/04/Pokemon-Season-10-Diamond-and-Pearl-Hindi-All-Episodes-Download-HD-1320x743.jpg",
-  "SeasonTitle": "Pokémon: Diamond and Pearl",
+  "SeasonTitle": "Diamond and Pearl",
   "desc": "The tenth season of the Pokémon anime.",
   "totalEp": "51",
   "episodes": [
@@ -3207,7 +3207,7 @@
   "Id": "11",
   "SeasonNum": "11",
   "poster": "https://raretoonsindia.in.net/wp-content/uploads/2022/10/Pokemon-Season-11-DP-Battle-Dimension-Hindi-Episodes-Watch-Download-HD-1320x743.jpg",
-  "SeasonTitle": "Pokémon Season 11 - Master Quest",
+  "SeasonTitle": "Master Quest",
   "desc": "The eleventh season of Pokémon.",
   "totalEp": "52",
   "episodes": [
@@ -3529,7 +3529,7 @@
   "Id": "12",
   "SeasonNum": "12",
   "poster": "https://raretoonsindia.in.net/wp-content/uploads/2020/12/Pokemon-Season-12-DP-Galactic-Battles-Hindi-Episodes-Download-FHD-1320x743.jpg",  
-  "SeasonTitle": "Pokémon: DP Galactic Battles",
+  "SeasonTitle": "DP Galactic Battles",
   "desc": "The twelfth season of Pokémon.",
   "totalEp": "52",
   "episodes": [
@@ -3850,7 +3850,7 @@
   "Id": "13",
   "SeasonNum": "13",
   "poster": "https://raretoonsindia.in.net/wp-content/uploads/2019/11/Pokemon-Season-13-DP-Sinnoh-League-Victors-Hindi-Dubbed-Episodes-Download-1080p-FHD.jpg",
-  "SeasonTitle": "Pokémon: Sinnoh League Victors",
+  "SeasonTitle": "Sinnoh League Victors",
   "desc": "The thirteenth season of the Pokémon anime.",
   "totalEp": "34",
   "episodes": [
@@ -4663,8 +4663,8 @@
 ,{
   "Id": "16",
   "SeasonNum": "16",
-  "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_gDpUAdQ5wY8JMkAsmAWf-AU3getXh1FUuk6eSlZvvZdbpmLf8UVQsAdCzl2dCfAi6BEUyjKT0Q8RdLjvmi1kb6yFuObEET_6UVfJ6C3fyVT8UvwpGWsUf_LSr92hIYHXSiEBYLrUt6gRnfHOPmZDCUS5KxC65QXThgfSPyJV-xUner8W-5ItzACIIQ/s1920/20220615_150230.jpg",
-  "SeasonTitle": "Pokémon: Black & White - Adventures in Unova and Beyond",
+  "poster": "https://raretoonsindia.in.net/wp-content/uploads/2022/06/s16.jpg",
+  "SeasonTitle": "Black & White - Adventures in Unova and Beyond",
   "desc": "The sixteenth season of the Pokémon anime.",
   "totalEp": "45",
   "episodes": [
@@ -4940,10 +4940,6 @@
     }
   ]
 }
-
-
-
-
 ,
   {
     "Id": "2",
